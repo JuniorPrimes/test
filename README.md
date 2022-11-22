@@ -50,6 +50,30 @@ _cursiva_
 2. item2
 ```
 ***
+## Lista anidada
+1. item1
+    * item
+    * item
+2. item2
+```markdown
+1. item1
+    * item
+    * item
+2. item2
+```
+***
+## Tabla
+| item  | unidades | 
+| ----- | -------- |
+| casa  | 3        |
+| coche | 1        |
+```markdown
+| item  | unidades | 
+| ----- | -------- |
+| casa  | 3        |
+| coche | 1        |
+```
+***
 ## Link
 [Ir a google](http://www.google.com)
 
