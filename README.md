@@ -1,7 +1,76 @@
-# test
-```java
-int x=89;
+# Markdown
+Cabeceras:
+```markdown
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
 ```
-```html
-<h1>h1</h1>
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+***
+## Negrita
+**negrita**
+
+```markdown
+**negrita**
+```
+***
+## Cursiva
+_cursiva_
+```markdown
+_cursiva_
+```
+***
+## Negrita y cursiva
+**_combinado_**
+```markdown
+**_combinado_**
+```
+***
+## Lista desordenada
+* item1
+* item2
+```markdown
+* item1
+* item2
+```
+***
+## Lista ordenada
+1. item1
+2. item2
+```markdown
+1. item1
+2. item2
+```
+***
+## Link
+[Ir a google](http://www.google.com)
+
+```markdown
+[Ir a google](http://www.google.com)
+```
+***
+## Imagen
+
+![Texto alternativo](/photo.jpg)
+```markdown
+![Texto alternativo](/photo.jpg)
+```
+***
+## Separador
+***
+```markdown
+***
+```
+## Omitir Markdown
+\# h1
+```markdown
+\# h1
 ```
